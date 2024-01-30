@@ -12,8 +12,8 @@
 <a href="https://github.com/pessoap" target="_blank">
   <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
-<a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
-  <i class="ai ai-arxiv-square ai-3x" style="color: red;"></i>
+<a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_red">
+  <i class="ai ai-arxiv-square ai-3x" style="color: gray;"></i>
 </a>
 
 
