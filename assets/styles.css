@@ -1,0 +1,28 @@
+.paper {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.paper h3 {
+    color: #333;
+}
+
+.paper a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+.paper a:hover {
+    text-decoration: underline;
+}
+
+.abstract {
+    margin-top: 12px;
+    font-style: italic;
+}
+
+.sub-details {
+    margin-left: 20px;
+}
