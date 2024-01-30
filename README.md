@@ -7,13 +7,13 @@
   <i class="ai ai-google-scholar-square ai-3x"></i>
 </a>
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
-  <i class="fab fa-linkedin fab-3x"></i>
+  <i class="fab fa-linkedin fa-3x"></i>
 </a>
 <a href="https://github.com/pessoap" target="_blank">
-  <i class="fab fa-github fab-3x"></i>
+  <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
 <a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
-  <i class="ai ai-arxiv-square ai-3x"></i>
+  <i class="ai ai-arxiv-square ai-3x" style="color: red;"></i>
 </a>
 
 
