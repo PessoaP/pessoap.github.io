@@ -9,7 +9,7 @@
 <a href="https://github.com/pessoap" target="_blank">
   <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
-<a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
+<a href="https://arxiv.org/search/?searchtype=author&query=Pessoa%2C+P" target="_blank">
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
@@ -147,4 +147,16 @@
     </details>
 </details>
   
-[//]: Selected Software Packages
+<details>
+<summary style="font-family: Arial; font-size: 32px;"><strong> Selected Software </strong></summary>
+    <details>
+    <summary style="font-family: Arial; font-size: 24px;"><strong> <a href="https://github.com/PessoaP/smn/"> SMN (Sparse matrices in Numba ) </a> </strong></summary>
+        <p> Library with a class for sparse matrices that is compatible with the popular <a href="https://numba.pydata.org/">Numba</a> compilation tool for fast machine code in Python.</p>
+    </details>    
+    <details>
+    <summary style="font-family: Arial; font-size: 24px;"><strong> <a href="https://github.com/PessoaP/IGQG">IGQG (Information Geometry of Quantum Gases) </a> </strong></summary>
+        <p> Library with functions needed for my work on Bose-Einstein condensation. These tools are based on the <a href="https://mpmath.org/">mpmath</a> library for arbitrary numeric precision. </p>
+    </details>
+</details>
+
+
