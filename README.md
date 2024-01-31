@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-
 <a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
   <i class="ai ai-google-scholar-square ai-3x"></i>
 </a>
@@ -16,9 +15,7 @@
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
 
-
 [//]: $P^4$
-
 
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Blog </strong></summary>
@@ -156,5 +153,3 @@
         <p> Library with functions needed for my work on Bose-Einstein condensation. These tools are based on the <a href="https://mpmath.org/">mpmath</a> library for arbitrary numeric precision. </p>
     </details>
 </details>
-
-
