@@ -3,3 +3,7 @@ title: Pedro Pessoa
 description: Postdoctoral Scholar at Arizona State University
 logo: /assets/picture.jpeg
 
+navigation:
+  - title: "Pressé Lab"
+    url: "https://labpresse.com//"
+    image: "https://labpresse.com/wp-content/uploads/2023/06/PresseLabLogo-300x100.png"
