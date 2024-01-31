@@ -40,8 +40,6 @@
     </details>
 </details>
 
-
-
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Selected Publications </strong></summary>
     <details>
@@ -148,13 +146,13 @@
 </details>
   
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> Selected Software </strong></summary>
+<summary style="font-family: Arial; font-size: 32px;"><strong> Selected Software Packages </strong></summary>
     <details>
-    <summary style="font-family: Arial; font-size: 24px;"><strong> <a href="https://github.com/PessoaP/smn/"> SMN (Sparse matrices in Numba ) </a> </strong></summary>
+    <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/smn/"> SMN (Sparse matrices in Numba ) </a> </strong></summary>
         <p> Library with a class for sparse matrices that is compatible with the popular <a href="https://numba.pydata.org/">Numba</a> compilation tool for fast machine code in Python.</p>
     </details>    
     <details>
-    <summary style="font-family: Arial; font-size: 24px;"><strong> <a href="https://github.com/PessoaP/IGQG">IGQG (Information Geometry of Quantum Gases) </a> </strong></summary>
+    <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/IGQG">IGQG (Information Geometry of Quantum Gases) </a> </strong></summary>
         <p> Library with functions needed for my work on Bose-Einstein condensation. These tools are based on the <a href="https://mpmath.org/">mpmath</a> library for arbitrary numeric precision. </p>
     </details>
 </details>
