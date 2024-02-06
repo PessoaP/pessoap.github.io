@@ -145,7 +145,7 @@
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Selected Software Packages </strong></summary>
     <details>
-    <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/smn/"> SMN (Sparse matrices in Numba ) </a> </strong></summary>
+    <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/smn/"> SMN (Sparse matrices in Numba) </a> </strong></summary>
         <p> Library with a class for sparse matrices that is compatible with the popular <a href="https://numba.pydata.org/">Numba</a> compilation tool for fast machine code in Python.</p>
     </details>    
     <details>

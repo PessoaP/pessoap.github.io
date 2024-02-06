@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Images for BPS
-permalink: /gifs/BPS/
+permalink: /gifs_BPS/
 ---
 
+TEST
