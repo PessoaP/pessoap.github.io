@@ -21,12 +21,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         <!--Lablogo-->
         <a href="https://labpresse.com/" target="_blank">
-            <img src="https://labpresse.com/wp-content/uploads/2023/06/PresseLabLogo-300x100.png" alt="Description of Image" style="width:100px; height:auto;">
-        </a>        
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <img src="https://labpresse.com/wp-content/uploads/2023/06/PresseLabLogo-300x100.png" alt="lablogo" style="width:301px; height:auto;">
+        </a>    
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
