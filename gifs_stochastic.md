@@ -1,5 +1,7 @@
 
 
-TEST
+Stochastic cell division posterior
 
-[TESTGIF](http://labpresse.com/wp-content/uploads/2024/02/SCD1-scaled.gif)
+<figure>
+  <img src="http://labpresse.com/wp-content/uploads/2024/02/SCD1.gif" alt="Alt text for image">
+</figure>
