@@ -30,6 +30,7 @@
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Other blog posts </strong></summary>
     <ul>
+        <li><a href="https://labpresse.com/a-primer-on-the-normal-distribution/"> A primer on the normal distribution </a></li>
         <li><a href="https://labpresse.com/which-method-should-i-use-a-guide-to-benchmarking/"> Which method should I use? – A guide to benchmarking </a></li>
         <li><a href="https://labpresse.com/what-is-autograd-automatic-differentiation-and-optimization-with-pytorch/"> What is autograd? – Automatic differentiation and optimization with PyTorch </a></li>
         <li><a href="https://labpresse.com/sparse-matrices-in-numba/"> Sparse Matrices in Numba (blog) </a></li>
