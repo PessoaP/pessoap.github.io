@@ -43,14 +43,13 @@
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
     <div class="paper">
-        <!-- <p>
+        <p>
             <strong>Published:</strong> 
-            Pessoa P, Pressé S (2023) 
-            <a href="https://doi.org/10.1371/journal.pone.0284212">  PLoS ONE, 18(4),  e0284212. DOI:10.1371/journal.pone.0284212 </a>
-        </p>-->
+            P Pessoa, M Schweiger, S Pressé (2024)  
+            <a href="https://doi.org/10.1063/5.0190527"> Journal of Chemical Physics, 160, 094109 </a>
+        </p>
         <p> 
             <strong>Preprint:</strong> 
-            P Pessoa, M Schweiger, S Pressé (2023) 
             <a href="https://arxiv.org/abs/2312.05647">Available at arXiv</a>
         </p>
         <div class="abstract">
@@ -67,7 +66,7 @@
         <p>
             <strong>Published:</strong> 
             P Pessoa, S Pressé (2023) 
-            <a href="https://doi.org/10.1371/journal.pone.0284212">  PLoS ONE, 18(4),  e0284212.  </a>
+            <a href="https://doi.org/10.1371/journal.pone.0284212">  PLoS ONE, 18(4),  e0284212  </a>
         </p>
         <p>
             <strong>Preprint:</strong> 
