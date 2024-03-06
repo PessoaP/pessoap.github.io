@@ -106,11 +106,11 @@
         <p>
             <strong>Published:</strong> 
             P Pessoa, C Cafaro (2021) 
-            <a href="https://doi.org/10.1103/PhysRevA.104.043318">  Physica A: Statistical Mechanics and its Applications, 576, 126061 </a>
+            <a href="https://doi.org/10.1016/j.physa.2021.126061">  Physica A: Statistical Mechanics and its Applications, 576, 126061 </a>
         </p>
         <p>
             <strong>Preprint:</strong> 
-            <a href="https://arxiv.org/abs/2102.02355">Available at arXiv</a>
+            <a href="https://arxiv.org/abs/2103.00935">Available at arXiv</a>
         </p>
         <div class="abstract">
             <h4>Abstract:</h4>
