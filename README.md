@@ -30,6 +30,7 @@
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Other blog posts </strong></summary>
     <ul>
+        <li><a href="https://labpresse.com/solving-differential-equations-using-neural-networks/"> Solving differential equations using neural networks </a> -- <a href="https://github.com/PessoaP/blog/blob/master/PINN/PINN_tutorial.ipynb">GitHub </a></li>
         <li><a href="https://labpresse.com/a-primer-on-the-normal-distribution/"> A primer on the normal distribution </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Normal/normal.ipynb">GitHub </a></li>
         <li><a href="https://labpresse.com/which-method-should-i-use-a-guide-to-benchmarking/"> Which method should I use? – A guide to benchmarking </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Time/time_benchmark.ipynb">GitHub </a></li>
         <li><a href="https://labpresse.com/what-is-autograd-automatic-differentiation-and-optimization-with-pytorch/"> What is autograd? – Automatic differentiation and optimization with PyTorch </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Autograd/Autograd.ipynb">GitHub </a></li>
