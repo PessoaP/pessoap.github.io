@@ -22,9 +22,9 @@
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Tutorials on Bayesian statistics </strong></summary>
     <ol>
-        <li>  &nbsp;&nbsp;  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-i-asserting-if-a-coin-is-biased-tutorial/">Why do we need Bayesian statistics? Part I – Asserting if a coin is biased</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Coins/Coins.ipynb">GitHub </a> </li>
-        <li>  &nbsp;&nbsp;  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-ii-the-lighthouse-problem-tutorial/">Why do we need Bayesian statistics? Part II — The lighthouse problem</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse.ipynb">GitHub </a></li>
-        <li>  &nbsp;&nbsp;  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-iii-learning-multivariate-distributions-tutorial">Why do we need Bayesian statistics? Part III – Learning multivariate distributions </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse2.ipynb">GitHub </a> </li>
+        &nbsp;&nbsp;  <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-i-asserting-if-a-coin-is-biased-tutorial/">Why do we need Bayesian statistics? Part I – Asserting if a coin is biased</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Coins/Coins.ipynb">GitHub </a> </li>
+        &nbsp;&nbsp;  <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-ii-the-lighthouse-problem-tutorial/">Why do we need Bayesian statistics? Part II — The lighthouse problem</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse.ipynb">GitHub </a></li>
+        &nbsp;&nbsp; <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-iii-learning-multivariate-distributions-tutorial">Why do we need Bayesian statistics? Part III – Learning multivariate distributions </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse2.ipynb">GitHub </a> </li>
     </ol>
     </details>
     <details>
