@@ -15,7 +15,22 @@
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
 
-[//]: $P^4$
+<h2>Find me at SIAM MDS 2024</h2>
+<p>
+    I will be hosting 
+    <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80798" target="_blank">
+        MT24 (MamBayes: Model-Free Long-Horizon Time Series Forecasting with Mamba)
+    </a> 
+    on <em>Thursday at 5:30</em>.
+</p>
+<p>
+    I will also be presenting a poster titled 
+    <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=140061" target="_blank">
+        Normalizing Flows for Simulation-Based Inference of Non-Markovian and Multiscale Stochastic Processes
+    </a> 
+    during the <em>Friday section</em>.
+</p>
+
 
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Blog </strong></summary>
