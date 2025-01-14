@@ -15,31 +15,16 @@
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
 
-<h2>Find me at SIAM MDS 2024</h2>
-<p>
-    I will be hosting 
-    <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80798" target="_blank">
-        MT24 (MamBayes: Model-Free Long-Horizon Time Series Forecasting with Mamba)
-    </a> 
-    on <em>Thursday at 5:30</em>.
-</p>
-<p>
-    I will also be presenting a poster titled 
-    <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=140061" target="_blank">
-        Normalizing Flows for Simulation-Based Inference of Non-Markovian and Multiscale Stochastic Processes
-    </a> 
-    during the <em>Friday section</em>.
-</p>
-
+[//]: $P^4$
 
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Blog </strong></summary>
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Tutorials on Bayesian statistics </strong></summary>
     <ol>
-        <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-i-asserting-if-a-coin-is-biased-tutorial/">Why do we need Bayesian statistics? Part I – Asserting if a coin is biased</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Coins/Coins.ipynb">GitHub </a> </li>
-        <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-ii-the-lighthouse-problem-tutorial/">Why do we need Bayesian statistics? Part II — The lighthouse problem</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse.ipynb">GitHub </a></li>
-        <li> <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-iii-learning-multivariate-distributions-tutorial">Why do we need Bayesian statistics? Part III – Learning multivariate distributions </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse2.ipynb">GitHub </a> </li>
+        <li>  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-i-asserting-if-a-coin-is-biased-tutorial/">Why do we need Bayesian statistics? Part I – Asserting if a coin is biased</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Coins/Coins.ipynb">GitHub </a> </li>
+        <li>  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-ii-the-lighthouse-problem-tutorial/">Why do we need Bayesian statistics? Part II — The lighthouse problem</a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse.ipynb">GitHub </a></li>
+        <li>  <a href="https://labpresse.com/why-do-we-need-bayesian-statistics-part-iii-learning-multivariate-distributions-tutorial">Why do we need Bayesian statistics? Part III – Learning multivariate distributions </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Lighthouse/Lighthouse2.ipynb">GitHub </a> </li>
     </ol>
     </details>
     <details>
