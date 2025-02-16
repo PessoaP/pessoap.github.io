@@ -50,6 +50,25 @@ B488: Learning Memory Kernel Parameters for Coarse-Grained Simulation (Presented
 
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> Selected Publications </strong></summary>
+  <details>
+    <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding subtraction and division of stochastic signals using normalizing flows: NFdeconvolve </strong></summary>
+    <div class="paper">
+        <p>
+            <strong>Authors:</strong> 
+            Pedro Pessoa, Max Schweiger, Lance W.Q. Xu, Tristan Manha, Ayush Saurabh, Julian Antolin Camarena, Steve Pressé
+        </p>
+        <p> 
+            <strong>Preprint:</strong> 
+            <a href="https://arxiv.org/abs/2501.08288">Available at arXiv</a>
+        </p>
+        <div class="abstract">
+            <h4>Abstract:</h4>
+            <p>
+                Across the scientific realm, we find ourselves subtracting or dividing stochastic signals. For instance, consider a stochastic realization, x, generated from the addition or multiplication of two stochastic signals a and b, namely x = a + b or x = ab. For the x = a + b example, a can be fluorescence background and b the signal of interest whose statistics are to be learned from the measured x. Similarly, when writing x = ab, a can be thought of as the illumination intensity and b the density of fluorescent molecules of interest. Yet dividing or subtracting stochastic signals amplifies noise, and we ask instead whether, using the statistics of a and the measurement of x as input, we can recover the statistics of b. Here, we show how normalizing flows can generate an approximation of the probability distribution over b, thereby avoiding subtraction or division altogether. This method is implemented in our software package, NFdeconvolve, available on GitHub with a tutorial linked in the main text.
+            </p>
+        </div>
+    </div>
+</details>
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
     <div class="paper">
