@@ -18,8 +18,11 @@
 This week, I'm attending the #BPS2025 Annual Meeting in Los Angeles.  
 
 LB90: Scalable Likelihood Approximation in Biophysics via Normalizing Flows (presented by yours truly)
+
 B475: Capturing Quantitative Bacterial Population Kinetics Within Individual C. elegans (Presented by Carol Lu)
+
 B503: Bayesian Single-Particle Tracking Using Normalizing Flows (Presented by Jay Spendlove)
+
 B488: Learning Memory Kernel Parameters for Coarse-Grained Simulation (Presented by Nikhil Ramesh)
 
 
