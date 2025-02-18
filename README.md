@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
+<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
+  <i class="fa-brands fa-bluesky fa-3x"></i>
+</a>
 
 This week, I'm attending the #BPS2025 Annual Meeting in Los Angeles.  
 
