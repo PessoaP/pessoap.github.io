@@ -2,6 +2,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
+  <i class="fa-brands fa-bluesky fa-3x"></i>
+</a>
 <a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
   <i class="ai ai-google-scholar-square ai-3x"></i>
 </a>
@@ -14,14 +17,12 @@
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
-<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
-  <i class="fa-brands fa-bluesky fa-3x"></i>
-</a>
+
 
 [//]: $P^4$
 
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> Blog </strong></summary>
+<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Blog</p> </strong></summary>
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Tutorials on Bayesian statistics </strong></summary>
     <ol>
@@ -44,7 +45,7 @@
 </details>
 
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> Selected Publications </strong></summary>
+<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Publications</p> </strong></summary>
     <details>
         <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding subtraction and division of stochastic signals using normalizing flows: NFdeconvolve </strong></summary>
         <div class="paper">
@@ -167,7 +168,7 @@
 </details>
   
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> Selected Software Packages </strong></summary>
+<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Software Packages</p> </strong></summary>
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/NFdeconvolve/"> NFDeconvolve </a> </strong></summary>
         <p> Library for obtaning probability distribution from noisy measurements, basically deconvoluting, using normalizing flows.</p>
