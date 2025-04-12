@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
-  <i class="fa-brands fa-bluesky fa-3x"></i>
+  <i class="fab fa-bluesky fa-3x"></i>
 </a>
 <a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
   <i class="ai ai-google-scholar-square ai-3x"></i>
@@ -47,6 +47,25 @@
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Publications</p> </strong></summary>
     <details>
+        <summary style="font-family: Arial; font-size: 20px;"><strong> REPOP: A Tool for Bacterial Population Reconstruction with Uncertainty Quantification from Plate Counts   </strong></summary>
+        <div class="paper">
+            <p>
+                <strong>Authors:</strong> 
+                Pedro Pessoa,  Steve Pressé
+            </p>
+            <p> 
+                <strong>Preprint:</strong> 
+                <a href="https://www.biorxiv.org/content/10.1101/2025.04.01.644179v1">Available at bioRxiv</a>
+            </p>
+            <div class="abstract">
+                <h4>Abstract:</h4>
+                <p>
+                    Bacterial counts from native environments, such as soil or the animal gut, often show substantial variability across replicate samples. This heterogeneity is typically attributed to genetic or environmental factors. A common approach to estimating bacterial populations involves successive dilution and plating, followed by multiplying colony counts by dilution factors. This method, however, overestimates the heterogeneity in bacterial population because it conflates the inherent uncertainty in drawing a subsample from the total population with the uncertainty in the sample arising from biological origins. In other words, this approach may obscure features that may otherwise be present in the data hinting at the presence of genuine subpopulations. For example, in plate counting applied to <em>C. elegans</em> gut microbiota, observed multimodality is often interpreted as large host-to-host variance, while the randomness introduced by measurement is frequently ignored. To explicitly account for the uncertainty introduced by dilution and plating randomness, we introduce <strong>REPOP</strong>, a PyTorch-based library to <strong>RE</strong>construct <strong>POP</strong>ulations from Plates within a Bayesian framework. Beyond simple cases, REPOP addresses more complex scenarios, including multimodal populations and correcting the mathematically subtle, but experimentally relevant, bias introduced by excluding plates deemed too crowded to distinguish individual colonies. We demonstrate REPOP’s ability to resolve distinct population peaks otherwise obscured by standard multiplication methods. Applications to both simulated and experimental datasets, including bacterial samples of different concentrations and ones from the gut microbiota of <em>C. elegans</em>, show that REPOP accurately recovers the underlying multimodality by properly accounting for error propagation, where naive multiplication fails. REPOP is available on GitHub: <a href="https://github.com/PessoaP/REPOP" target="_blank">https://github.com/PessoaP/REPOP</a>.
+                </p>
+            </div>
+        </div>
+    </details>
+    <details>
         <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding subtraction and division of stochastic signals using normalizing flows: NFdeconvolve </strong></summary>
         <div class="paper">
             <p>
@@ -65,7 +84,7 @@
             </div>
         </div>
     </details>
-    <details>
+    <!-- <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
     <div class="paper">
         <p>
@@ -84,7 +103,7 @@
             </p>
         </div>
     </div>
-    </details>
+    </details> -->
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> How many submissions are needed to discover friendly suggested reviewers? </strong></summary>
     <div class="paper">
@@ -169,6 +188,10 @@
   
 <details>
 <summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Software Packages</p> </strong></summary>
+    <details>
+    <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/REPOP/"> REPOP </a> </strong></summary>
+        <p> Library for REconstructing bacterial POpulations from Plate counts.</p>
+    </details>   
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/NFdeconvolve/"> NFDeconvolve </a> </strong></summary>
         <p> Library for obtaning probability distribution from noisy measurements, basically deconvoluting, using normalizing flows.</p>
