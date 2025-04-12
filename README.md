@@ -22,7 +22,7 @@
 [//]: $P^4$
 
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Blog</p> </strong></summary>
+<summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Blog </strong></summary>
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Tutorials on Bayesian statistics </strong></summary>
     <ol>
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Publications</p> </strong></summary>
+<summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Selected Publications </strong></summary>
     <details>
         <summary style="font-family: Arial; font-size: 20px;"><strong> REPOP: A Tool for Bacterial Population Reconstruction with Uncertainty Quantification from Plate Counts   </strong></summary>
         <div class="paper">
@@ -187,7 +187,7 @@
 </details>
   
 <details>
-<summary style="font-family: Arial; font-size: 32px;"><strong> <p style="color:darkblue;">Selected Software Packages</p> </strong></summary>
+<summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Selected Software Packages </strong></summary>
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> <a href="https://github.com/PessoaP/REPOP/"> REPOP </a> </strong></summary>
         <p> Library for REconstructing bacterial POpulations from Plate counts.</p>
