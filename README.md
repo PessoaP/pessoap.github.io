@@ -51,7 +51,7 @@
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
-                Pedro Pessoa, Carol Lu, Stanimir Asenov Tashev, Douglas P. Shepherd, Steve Pressé
+                Pedro Pessoa, Carol Lu, Stanimir Asenov Tashev, Rory Kruithoff, Douglas P. Shepherd, Steve Pressé
             </p>
             <p> 
                 <strong>Preprint:</strong> 
