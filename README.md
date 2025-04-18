@@ -1,23 +1,26 @@
 <link rel="stylesheet" type="text/css" href="assets/styles.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
-  <i class="fab fa-bluesky fa-3x"></i>
-</a>
+
 <a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
   <i class="ai ai-google-scholar-square ai-3x"></i>
-</a>
-<a href="https://github.com/pessoap" target="_blank">
-  <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
 <a href="https://arxiv.org/search/?searchtype=author&query=Pessoa%2C+P" target="_blank">
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
+<a href="https://orcid.org/" target="_blank">
+  <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i>
+</a>
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
-
+<a href="https://github.com/pessoap" target="_blank">
+  <i class="fab fa-github fa-3x" style="color: black;"></i>
+</a>
+<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
+  <i class="fab fa-bluesky fa-3x"></i>
+</a>
 
 [//]: $P^4$
 
@@ -84,7 +87,7 @@
             </div>
         </div>
     </details>
-    <!-- <details>
+    <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
     <div class="paper">
         <p>
@@ -103,7 +106,7 @@
             </p>
         </div>
     </div>
-    </details> -->
+    </details>
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> How many submissions are needed to discover friendly suggested reviewers? </strong></summary>
     <div class="paper">
