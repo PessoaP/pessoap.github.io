@@ -9,14 +9,14 @@
 <a href="https://arxiv.org/search/?searchtype=author&query=Pessoa%2C+P" target="_blank">
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
-<a href="https://orcid.org/" target="_blank">
+<!-- <a href="https://orcid.org/" target="_blank">
   <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i>
+</a> -->
+<a href="https://github.com/pessoap" target="_blank">
+  <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
   <i class="fab fa-linkedin fa-3x"></i>
-</a>
-<a href="https://github.com/pessoap" target="_blank">
-  <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
 <a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
   <i class="fab fa-bluesky fa-3x"></i>
