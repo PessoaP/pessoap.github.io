@@ -3,15 +3,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-<a href="https://scholar.google.com/citations?user=nFMdGokAAAAJ&hl=en" target="_blank">
+<a href="https://scholar.google.com/citations?hl=en&user=sw4MCXcAAAAJ" target="_blank">
   <i class="ai ai-google-scholar-square ai-3x"></i>
 </a>
 <a href="https://arxiv.org/search/?searchtype=author&query=Pessoa%2C+P" target="_blank">
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
-<!-- <a href="https://orcid.org/" target="_blank">
-  <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i>
-</a> -->
+<!-- <a href="https://orcid.org/0000-0002-6258-5679/" target="_blank">
+  <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i> -->
+</a>
 <a href="https://github.com/pessoap" target="_blank">
   <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
