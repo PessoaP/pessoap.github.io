@@ -10,8 +10,8 @@
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
 <!-- <a href="https://orcid.org/0000-0002-6258-5679/" target="_blank">
-  <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i> -->
-</a>
+  <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i>
+</a> -->
 <a href="https://github.com/pessoap" target="_blank">
   <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
