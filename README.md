@@ -50,7 +50,26 @@
 <details>
 <summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Selected Publications </strong></summary>
     <details>
-        <summary style="font-family: Arial; font-size: 20px;"><strong> REPOP: A Tool for Bacterial Population Reconstruction with Uncertainty Quantification from Plate Counts   </strong></summary>
+        <summary style="font-family: Arial; font-size: 20px;"><strong> Simulation-trained conditional normalizing flows for likelihood approximation: a case study in stress regulation kinetics in yeast  </strong></summary>
+        <div class="paper">
+            <p>
+                <strong>Authors:</strong> 
+                Pedro Pessoa, Juan Andres Martinez, Vincent Vandenbroucke, Frank Delvigne, Steve Pressé
+            </p>
+            <p> 
+                <strong>Preprint:</strong> 
+                <a href="https://doi.org/10.48550/arXiv.2506.09374">Available at arXiv</a>
+            </p>
+            <div class="abstract">
+                <h4>Abstract:</h4>
+                <p>
+                    Physics-inspired inference often hinges on the ability to construct a likelihood, or the probability of observing a sequence of data given a model. These likelihoods can be directly maximized for parameter estimation, incorporated into Bayesian frameworks, or even used as loss functions in neural networks. Yet, many models, despite being conceptually simple, lack tractable likelihoods. A notable example arises in estimating protein production from snapshot measurements of actively dividing cells. Here, the challenge stems from cell divisions occurring at non-Exponentially distributed intervals with each division stochastically partitioning protein content between daughter cells, making protein counts in any given cell a function of its full division history. Such history dependence precludes a straightforward likelihood based on a (standard Markovian) master equation. Instead, we employ conditional normalizing flows (a class of neural network models designed to learn probability distributions) to approximate otherwise intractable likelihoods from simulated data. As a case study, we examine activation of the <em>glc3</em> gene in yeast involved in glycogen synthesis and expressed under nutrient-limiting conditions. We monitor this activity using snapshot fluorescence measurements via flow cytometry, where GFP expression reflects <em>glc3</em> promoter activity. A naïve analysis of flow cytometry data ignoring cell division suggests many cells are active with low expression. However, fluorescent proteins persist and can be inherited, so cells may appear active from retaining ancestral fluorescence. Explicitly accounting for the (non-Markovian) effects of cell division reveals <em>glc3</em> mostly inactive under stress, showing that while cells occasionally activate it, expression is brief and transient. 
+                </p>
+            </div>
+        </div>
+    </details>
+    <details>
+        <summary style="font-family: Arial; font-size: 20px;"><strong> REPOP: bacterial population quantification from plate counts   </strong></summary>
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
@@ -87,7 +106,7 @@
             </div>
         </div>
     </details>
-    <details>
+    <!-- <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
     <div class="paper">
         <p>
@@ -106,7 +125,7 @@
             </p>
         </div>
     </div>
-    </details>
+    </details> -->
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> How many submissions are needed to discover friendly suggested reviewers? </strong></summary>
     <div class="paper">
