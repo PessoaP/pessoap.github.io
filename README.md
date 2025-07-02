@@ -37,7 +37,7 @@
     <details>
     <summary style="font-family: Arial; font-size: 24px;"><strong> Other blog posts </strong></summary>
     <ul>
-        <li>  <a href="https://labpresse.com/the-monty-hall-or-3-doors-problem/"> The Monty Hall (or 3 doors) problem   -- <a href="https://github.com/PessoaP/blog/blob/master/3doors/3doors.ipynb">GitHub </a> </li>
+        <li>  <a href="https://labpresse.com/the-monty-hall-or-3-doors-problem/"> The Monty Hall (or 3 doors) problem </a>  -- <a href="https://github.com/PessoaP/blog/blob/master/3doors/3doors.ipynb">GitHub </a> </li>
         <li>  <a href="https://labpresse.com/2053-2/">Bayesian <span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathnormal" style="margin-right: 0.03588em;">π</span> – Calculating <span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathnormal" style="margin-right: 0.03588em;">π</span> with Monte Carlo </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Coins/PI.ipynb">GitHub </a> </li>
         <li><a href="https://labpresse.com/solving-differential-equations-using-neural-networks/"> Solving differential equations using neural networks </a> -- <a href="https://github.com/PessoaP/blog/blob/master/PINN/PINN_tutorial.ipynb">GitHub </a></li>
         <li><a href="https://labpresse.com/a-primer-on-the-normal-distribution/"> A primer on the normal distribution </a> -- <a href="https://github.com/PessoaP/blog/blob/master/Normal/normal.ipynb">GitHub </a></li>
