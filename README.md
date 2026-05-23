@@ -9,18 +9,18 @@
 <a href="https://arxiv.org/search/?searchtype=author&query=Pessoa%2C+P" target="_blank">
   <i class="ai ai-arxiv ai-3x" style="color: red;"></i>
 </a>
-<!-- <a href="https://orcid.org/0000-0002-6258-5679/" target="_blank">
+<a href="https://orcid.org/0000-0002-6258-5679/" target="_blank">
   <i class="ai ai-orcid-square ai-3x" style="color: #006000;"></i>
-</a> -->
+</a>
 <a href="https://github.com/pessoap" target="_blank">
   <i class="fab fa-github fa-3x" style="color: black;"></i>
 </a>
 <a href="https://www.linkedin.com/in/ppessoa" target="_blank">
   <i class="fab fa-linkedin fa-3x"></i>
 </a>
-<a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
+<!-- <a href="https://bsky.app/profile/pedropessoaphd.bsky.social" target="_blank">
   <i class="fab fa-bluesky fa-3x"></i>
-</a>
+</a> -->
 
 [//]: $P^4$
 
@@ -55,16 +55,17 @@
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
-                Pedro Pessoa, Juan Andres Martinez, Vincent Vandenbroucke, Frank Delvigne, Steve Pressé
+                Pedro Pessoa, Juan Andres Martinez, Vincent Vandenbroucke, Frank Delvigne, Steve Pressé 
+                <a href="https://doi.org/10.1073/pnas.2517309123">  PNAS, 123, e2517309123  </a>
             </p>
-            <p> 
+            <p>
                 <strong>Preprint:</strong> 
-                <a href="https://doi.org/10.48550/arXiv.2506.09374">Available at arXiv</a>
+                <a href="https://arxiv.org/abs/2210.00905">Available at arXiv</a>
             </p>
             <div class="abstract">
                 <h4>Abstract:</h4>
                 <p>
-                    Inferring protein production kinetics for dividing cells is complicated deu to protein inheritance from the mother cell. For instance, fluorescence measurements -- commonly used to assess gene activation -- may reflect not only newly produced proteins but also those inherited through successive cell divisions. In such cases, observed protein levels in any given cell are shaped by its division history. As a case study, we examine activation of the <em>glc3</em> gene in yeast involved in glycogen synthesis and expressed under nutrient-limiting conditions. We monitor this activity using snapshot fluorescence measurements via flow cytometry, where GFP expression reflects <em>glc3</em> promoter activity. A naïve analysis of flow cytometry data ignoring cell division suggests many cells are active with low expression. Explicitly accounting for the (non-Markovian) effects of cell division and protein inheritance makes it impossible to write down a tractable likelihood -- a key ingredient in physics-inspired inference, defining the probability of observing data given a model. The dependence on a cell's division history breaks the assumptions of standard (Markovian) master equations, rendering traditional likelihood-based approaches inapplicable. Instead, we adapt conditional normalizing flows (a class of neural network models designed to learn probability distributions) to approximate otherwise intractable likelihoods from simulated data. In doing so, we find that <em>glc3</em> is mostly inactive under stress, showing that while cells occasionally activate the gene, expression is brief and transient. 
+                    Inferring protein production kinetics in dividing cells is complicated by protein inheritance from the mother cell. For instance, fluorescence measurements commonly used to assess gene activation may reflect not only newly produced proteins but also those inherited through successive cell divisions. In such cases, observed protein levels in any given cell are shaped by its division history. As a case study, we examine activation of the <em>glc3</em> gene in yeast involved in glycogen synthesis and expressed under nutrient-limiting conditions. We monitor this activity using snapshot fluorescence measurements via flow cytometry, where GFP expression reflects <em>glc3</em> promoter activity. A naïve analysis of flow cytometry data ignoring cell division suggests many cells are active with low expression. Explicitly accounting for the (non-Markovian) effects of cell division and protein inheritance makes it impossible to write down a tractable likelihood -- a key ingredient in physics-inspired inference, defining the probability of observing data given a model. The dependence on a cell's division history breaks the assumptions of standard (Markovian) master equations, rendering traditional likelihood-based approaches inapplicable. Instead, we adapt conditional normalizing flows (a class of neural network models designed to learn probability distributions) to approximate otherwise intractable likelihoods from simulated data. In doing so, we find that <em>glc3</em> is mostly inactive under stress, showing that while cells occasionally activate the gene, expression is brief and transient. 
                 </p>
             </div>
         </div>
@@ -74,9 +75,10 @@
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
-                Pedro Pessoa, Carol Lu, Stanimir Asenov Tashev, Rory Kruithoff, Douglas P. Shepherd, Steve Pressé
+                Pedro Pessoa, Carol Lu, Stanimir Asenov Tashev, Rory Kruithoff, Douglas P. Shepherd, Steve Pressé (2025)
+                <a href="    https://doi.org/10.7554/eLife.107122.1">  eLife  </a>
             </p>
-            <p> 
+            <p>
                 <strong>Preprint:</strong> 
                 <a href="https://doi.org/10.1101/2025.04.01.644179">Available at bioRxiv</a>
             </p>
@@ -89,51 +91,31 @@
         </div>
     </details>
     <details>
-        <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding subtraction and division of stochastic signals using normalizing flows: NFdeconvolve </strong></summary>
+        <summary style="font-family: Arial; font-size: 20px;"><strong> Mamba time series forecasting with uncertainty quantification  </strong></summary>
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
-                Pedro Pessoa, Max Schweiger, Lance W.Q. Xu, Tristan Manha, Ayush Saurabh, Julian Antolin Camarena, Steve Pressé
+                Pedro Pessoa, Paul Campitelli, Douglas P Shepherd, S Banu Ozkan, Steve Pressé (2025)
+                <a href="https://iopscience.iop.org/article/10.1088/2632-2153/adec3b">  Machine Learning: Science and Technology, 6, 035012 </a>
             </p>
-            <p> 
+            <p>
                 <strong>Preprint:</strong> 
-                <a href="https://arxiv.org/abs/2501.08288">Available at arXiv</a>
+                <a href="https://arxiv.org/abs/2503.10873">Available at arXiv</a>
             </p>
             <div class="abstract">
                 <h4>Abstract:</h4>
-                <p>
-                    Across the scientific realm, we find ourselves subtracting or dividing stochastic signals. For instance, consider a stochastic realization, x, generated from the addition or multiplication of two stochastic signals a and b, namely x = a + b or x = ab. For the x = a + b example, a can be fluorescence background and b the signal of interest whose statistics are to be learned from the measured x. Similarly, when writing x = ab, a can be thought of as the illumination intensity and b the density of fluorescent molecules of interest. Yet dividing or subtracting stochastic signals amplifies noise, and we ask instead whether, using the statistics of a and the measurement of x as input, we can recover the statistics of b. Here, we show how normalizing flows can generate an approximation of the probability distribution over b, thereby avoiding subtraction or division altogether. This method is implemented in our software package, NFdeconvolve, available on GitHub with a tutorial linked in the main text.
+                <p>  State space models, such as Mamba, have recently garnered attention in time-series forecasting due to their ability to capture sequence patterns. However, in electricity-consumption benchmarks, Mamba forecasts exhibit a mean error of approximately 8%. Similarly, in traffic-occupancy benchmarks, the mean error reaches 18%. This discrepancy leaves us to wonder whether the prediction is simply inaccurate or falls within error given the spread in historical data.   To address this limitation, we propose a method to quantify the predictive uncertainty of Mamba forecasts. Here, we introduce a dual-network framework based on the Mamba architecture for probabilistic forecasting, where one network generates point forecasts while the other estimates predictive uncertainty by modeling variance. We abbreviate our tool, Mamba with probabilistic time-series forecasting, as <strong>Mamba-ProbTSF</strong>, and the code for its implementation is available on GitHub.   Evaluating this approach on synthetic and real-world benchmark datasets, we find that the Kullback-Leibler divergence between the learned distributions and the data—which, in the limit of infinite data, should converge to zero if the model correctly captures the underlying probability distribution—is reduced to the order of 10<sup>&minus;3</sup> for synthetic data and 10<sup>&minus;1</sup> for real-world benchmarks, demonstrating its effectiveness.   We find that, in both the electricity-consumption and traffic-occupancy benchmarks, the true trajectory stays within the predicted uncertainty interval at the two-sigma level about 95% of the time. We end by considering potential limitations, adjustments to improve performance, and applications of this framework to processes with purely or largely stochastic dynamics, where stochastic changes accumulate, as observed, for example, in pure Brownian motion or molecular-dynamics trajectories.
                 </p>
             </div>
         </div>
     </details>
-    <!-- <details>
-    <summary style="font-family: Arial; font-size: 20px;"><strong> Avoiding matrix exponentials for large transition rate matrices </strong></summary>
-    <div class="paper">
-        <p>
-            <strong>Published:</strong> 
-            P Pessoa, M Schweiger, S Pressé (2024)  
-            <a href="https://doi.org/10.1063/5.0190527"> Journal of Chemical Physics, 160, 094109 </a>
-        </p>
-        <p> 
-            <strong>Preprint:</strong> 
-            <a href="https://arxiv.org/abs/2312.05647">Available at arXiv</a>
-        </p>
-        <div class="abstract">
-            <h4>Abstract:</h4>
-            <p>
-                Exact methods for exponentiation of matrices of dimension N can be computationally expensive in terms of execution time (N<sup>3</sup>) and memory requirements (N<sup>2</sup>) not to mention numerical precision issues. A type of matrix often exponentiated in the sciences is the rate matrix. Here we explore five methods to exponentiate rate matrices, some of which apply even more broadly to other matrix types. Three of the methods leverage a mathematical analogy between computing matrix elements of a matrix exponential and computing transition probabilities of a dynamical process (technically a Markov jump process, MJP, typically simulated using Gillespie). In doing so, we identify a novel MJP-based method relying on restricting the number of "trajectory" jumps based on the magnitude of the matrix elements with favorable computational scaling. We then discuss this method's downstream implications on mixing properties of Monte Carlo posterior samplers. We also benchmark two other methods of matrix exponentiation valid for any matrix (beyond rate matrices and, more generally, positive definite matrices) related to solving differential equations: Runge-Kutta integrators and Krylov subspace methods. Under conditions where both the largest matrix element and the number of non-vanishing elements scale linearly with N — reasonable conditions for rate matrices often exponentiated — computational time scaling with the most competitive methods (Krylov and one of the MJP-based methods) reduces to N<sup>2</sup> with total memory requirements of N.
-            </p>
-        </div>
-    </div>
-    </details> -->
     <details>
     <summary style="font-family: Arial; font-size: 20px;"><strong> How many submissions are needed to discover friendly suggested reviewers? </strong></summary>
     <div class="paper">
         <p>
             <strong>Published:</strong> 
             P Pessoa, S Pressé (2023) 
-            <a href="https://doi.org/10.1371/journal.pone.0284212">  PLoS ONE, 18(4),  e0284212  </a>
+            <a href="https://doi.org/10.1371/journal.pone.0284212">  PLoS ONE, 18,  e0284212  </a>
         </p>
         <p>
             <strong>Preprint:</strong> 
@@ -183,26 +165,6 @@
             <h4>Abstract:</h4>
             <p>
                 Information geometry is an emergent branch of probability theory that consists of assigning a Riemannian differential geometry structure to the space of probability distributions. We present an information geometric investigation of gases following the Fermi–Dirac and the Bose–Einstein quantum statistics. For each quantum gas, we study the information geometry of the curved statistical manifolds associated with the grand canonical ensemble. The Fisher–Rao information metric and the scalar curvature are computed for both fermionic and bosonic models of non-interacting particles. In particular, by taking into account the ground state of the ideal bosonic gas in our information geometric analysis, we find that the singular behavior of the scalar curvature in the condensation region disappears. This is a counterexample to a long held conjecture that curvature always diverges in phase transitions.
-            </p>
-        </div>
-    </div>
-    </details>
-    <details>
-    <summary style="font-family: Arial; font-size: 20px;"><strong> Entropic dynamics on Gibbs statistical manifolds </strong></summary>
-    <div class="paper">
-        <p>
-            <strong>Published:</strong> 
-            P Pessoa, F Xavier Costa, A Caticha (2021) 
-            <a href="https://doi.org/10.3390/e23050494">  Entropy 2021, 23(5), 494 </a>
-        </p>
-        <p>
-            <strong>Preprint:</strong> 
-            <a href="https://arxiv.org/abs/2008.04683">Available at arXiv</a>
-        </p>
-        <div class="abstract">
-            <h4>Abstract:</h4>
-            <p>
-                Entropic dynamics is a framework in which the laws of dynamics are derived as an application of entropic methods of inference. Its successes include the derivation of quantum mechanics and quantum field theory from probabilistic principles. Here, we develop the entropic dynamics of a system, the state of which is described by a probability distribution. Thus, the dynamics unfolds on a statistical manifold that is automatically endowed by a metric structure provided by information geometry. The curvature of the manifold has a significant influence. We focus our dynamics on the statistical manifold of Gibbs distributions (also known as canonical distributions or the exponential family). The model includes an “entropic” notion of time that is tailored to the system under study; the system is its own clock. As one might expect that entropic time is intrinsically directional; there is a natural arrow of time that is led by entropic considerations. As illustrative examples, we discuss dynamics on a space of Gaussians and the discrete three-state system.
             </p>
         </div>
     </div>
