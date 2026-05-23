@@ -51,11 +51,11 @@
 <details>
 <summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Selected Publications </strong></summary>
     <details>
-        <summary style="font-family: Arial; font-size: 20px;"><strong> Inherited or produced? Inferring protein production kinetics when protein counts are shaped by a cell's division history  </strong></summary>
+        <summary style="font-family: Arial; font-size: 20px;"><strong> Simulation-based inference captures non-Markovian effects as exemplified in protein production kinetics through cell division  </strong></summary>
         <div class="paper">
             <p>
                 <strong>Authors:</strong> 
-                Pedro Pessoa, Juan Andres Martinez, Vincent Vandenbroucke, Frank Delvigne, Steve Pressé 
+                Pedro Pessoa, Juan Andres Martinez, Vincent Vandenbroucke, Frank Delvigne, Steve Pressé (2026)
                 <a href="https://doi.org/10.1073/pnas.2517309123">  PNAS, 123, e2517309123  </a>
             </p>
             <p>
