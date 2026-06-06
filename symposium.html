@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script>
-        window.location.replace("https://pessoap.github.io/symposium_plus.pdf");
-    </script>
-    <title>Downloading PDF...</title>
+  <title>Downloading PDF...</title>
+  <script>
+    window.onload = function () {
+      const link = document.createElement("a");
+      link.href = "https://pessoap.github.io/symposium_plus.pdf";
+      link.download = "symposium_plus.pdf";
+      document.body.appendChild(link);
+      link.click();
+
+      // Redirect 6 seconds after starting the download
+      setTimeout(function () {
+        window.location.href = "https://pessoap.github.io/symposium";
+      }, 6000);
+    };
+  </script>
 </head>
 <body>
-    <p><a href="https://pessoap.github.io/symposium_plus.pdf" download>Download the PDF</a></p>
+  <p>Your PDF should download automatically.</p>
+  <p>
+    <a href="https://pessoap.github.io/symposium_plus.pdf" download>
+      Click here if it does not download.
+    </a>
+  </p>
 </body>
 </html>
