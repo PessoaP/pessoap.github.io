@@ -10,18 +10,19 @@
       document.body.appendChild(link);
       link.click();
 
-      // Redirect 6 seconds after starting the download
+      // Send user to the real symposium page after 6 seconds
       setTimeout(function () {
-        window.location.href = "https://pessoap.github.io/symposium";
+        window.location.href = "https://pessoap.github.io/symposium/index.html?downloaded=1";
       }, 6000);
     };
   </script>
 </head>
 <body>
   <p>Your PDF should download automatically.</p>
+  <p>You will be redirected to the symposium page shortly.</p>
   <p>
     <a href="https://pessoap.github.io/symposium_plus.pdf" download>
-      Click here if it does not download.
+      Click here if the download does not start.
     </a>
   </p>
 </body>
