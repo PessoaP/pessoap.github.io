@@ -24,6 +24,13 @@
 
 [//]: $P^4$
 
+<p style="font-family: Arial; font-size: 32px;">
+    <a href="https://pessoap.github.io/CV_Pessoa__Jun26_%20(1).pdf"
+       style="color: darkblue;">
+        <strong>Curriculum Vitae</strong>
+    </a>
+</p>
+
 <details>
 <summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Blog </strong></summary>
     <details>
