@@ -25,7 +25,7 @@
 [//]: $P^4$
 
 <p style="font-family: Arial; font-size: 32px;">
-    <a href="https://pessoap.github.io/CV_Pessoa__Jun26_%20(1).pdf"
+    <a href="https://pessoap.github.io/CV_Pessoa__Aug26.pdf"
        style="color: darkblue;">
         <strong>Curriculum Vitae</strong>
     </a>
