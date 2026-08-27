@@ -24,12 +24,7 @@
 
 [//]: $P^4$
 
-<p style="font-family: Arial; font-size: 32px;">
-    <a href="https://pessoap.github.io/CV_Pessoa__Aug26.pdf"
-       style="color: darkblue;">
-        <strong>Curriculum Vitae</strong>
-    </a>
-</p>
+
 
 <details>
 <summary style="font-family: Arial; font-size: 32px; color: darkblue;"><strong> Blog </strong></summary>
@@ -197,3 +192,10 @@
         <p> Library with functions needed for my work on Bose-Einstein condensation. These tools are based on the <a href="https://mpmath.org/">mpmath</a> library for arbitrary numeric precision. </p>
     </details>
 </details>
+
+<p style="font-family: Arial; font-size: 32px;">
+    <a href="https://pessoap.github.io/CV_Pessoa__Aug26.pdf"
+       style="color: darkblue;">
+        <strong>Curriculum Vitae</strong>
+    </a>
+</p>
