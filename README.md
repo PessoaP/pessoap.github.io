@@ -194,7 +194,7 @@
 </details>
 
 <p style="font-family: Arial; font-size: 32px;">
-    <a href="https://pessoap.github.io/CV_Pessoa__Aug26.pdf"
+    <a href="https://pessoap.github.io/CV.pdf"
        style="color: darkblue;">
         <strong>Curriculum Vitae</strong>
     </a>
